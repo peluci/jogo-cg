@@ -42,10 +42,3 @@ Portanto, as implementações em acordância com o GitHub são:
 7. Seletor de dificuldade
 8. Seletor de personagem
 
-
-Alunos responsáveis:
-João Victor Peluci Gibaja de Souza Valente
-Mateus Ribeiro Ferraz
-Sulamita Ester Costa
-Victor Samuel Levindo Mont'Mor
-
