@@ -29,6 +29,8 @@ Running
 
 Have fun!
 
+![Game Screen](texturas/telas/home.png)
+
 <h2>
 About the game
 </h2>
