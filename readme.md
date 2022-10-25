@@ -6,7 +6,7 @@ Access Denied
 How to run the game?
 </h2>
 <h3>
-Install packages
+Installing packages
 </h3>
 
 > sudo apt update
@@ -35,7 +35,9 @@ About the game
 
 The name given is a pun with scientific denialism, and so it's called "Acesso Negado" ("Access Denied", in english). The main characters Atila Iamarino, biologist and professor at UNICAMP, Natalia Pasternak - researcher of ICB-USB and PhD, Vitor Mori - member of the group COVID-19 observatory and researcher of Vermont University, and the researcher and science popularizer Luiza Caires from USP Journal, should fight against some recurrent figures of the present, as medications that are used as treatments for COVID-19, even without the due comprovation, the conspiracy image of the Flat Earth and the major one: the Fake News.
 
-> Vídeo relativo ao jogo: https://youtu.be/E_RJm8jiX_Y
+Gameplay:
+<video src="https://youtu.be/E_RJm8jiX_Y" controls="controls" style="max-width: 730px;">
+</video>
 
 <h3>
 Features
