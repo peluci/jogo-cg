@@ -1,28 +1,57 @@
-Como fazer para rodar o jogo Acesso Negado?
+<h1>
+Access Denied
+</h1>
 
-Instale os pacotes necessários usando os seguintes comando:
-sudo apt update
-sudo apt-get install g++
-sudo apt-get install libsdl1.2-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev
+<h2>
+How to run the game?
+</h2>
+<h3>
+Install packages
+</h3>
+> sudo apt update
+> sudo apt-get install g++
+> sudo apt-get install libsdl1.2-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev
 
-Depois, compile o jogo através deste comando:
-g++ -o jogo jogo.cpp -lSDL -lGL -lSDLmain -lSDL_image -lSDL_mixer
+<h3>
+Compiling
+</h3>
+> g++ -o jogo jogo.cpp -lSDL -lGL -lSDLmain -lSDL_image -lSDL_mixer
 
-Rode o jogo usando
-./jogo
+<h3>
+Running
+</h3>
+> ./jogo
 
-Divirta-se!
+Have fun!
 
-Vídeo relativo ao jogo: https://youtu.be/E_RJm8jiX_Y
+<h2>
+About the game
+</h2>
 
-Sobre o Jogo:
-O nome dado é um trocadilho com o negacionismo científico, por isso "Acesso Negado". Os protagonistas Atila Iamarino, biologo e professor da UNICAMP, Natália Pasternak - pesquisadora do ICB-USP e PhD, Vitor Mori - membro do grupo Observatório COVID-19 e pesquisador da Universidade de Vermont, e a pesquisadora e divulgadora científica Luiza Caires do Jornal da USP, devem combater algumas figuras imputadas na atualidade, dentre elas, medicamentos dados como tratamentos mesmo sem a comprovação devida, a imagem conspiracionista da Terra Plana e o principal: as Fake News.
+The name given is a pun with scientific denialism, and so it's called "Acesso Negado" ("Access Denied", in english). The main characters Atila Iamarino, biologist and professor at UNICAMP, Natalia Pasternak - researcher of ICB-USB and PhD, Vitor Mori - member of the group COVID-19 observatory and researcher of Vermont University, and the researcher and science popularizer Luiza Caires from USP Journal, should fight against some recurrent figures of the present, as medications that are used as treatments for COVID-19, even without the due comprovation, the conspiracy image of the Flat Earth and the major one: the Fake News.
 
-Funcionalidades implementadas:
-O jogo possui várias telas.
-Ao abrir, nos deparamos com a tela de início com instruções, nela, podemos pressionar 'S' para iniciar a jogatina ou 'O' para ir às opções.
+> Vídeo relativo ao jogo: https://youtu.be/E_RJm8jiX_Y
 
-Ao entrar nas opções, podemos selecionar qual personagem queremos jogar (usando as teclas numéricas do teclado - 1 a 4). Podemos também apertar a tecla 'L' e ver mais informações a respeito do desenvolvimento do jogo.
+<h3>
+Features
+</h3>
+
+<ul>
+<li> Custom background (but not animated)</li>
+<li>Enemies with different textures, randomized (but with same behavior)</li>
+<li>Lives</li>
+<li>Music (Soundtrack)</li>
+<li>Different Screens</li>
+<li>Difficulty Selector</li>
+<li>Character Selector</li>
+</ul>
+
+<h2>How to play</h2>
+
+    Press <strong>'S'</strong> to start the game or <strong>'O'</strong> to go to options.  
+
+<h3><strong>'O'</strong> Options</h3>
+Select witch character do you want to play with, using keys from <strong>'1' to '4'</strong>. You can also press <strong>'L'</strong> and see more information about the game.
 
 Ao apertar S em qualquer momento,  o jogo se inicia na dificuldade 1, na qual os inimigos tentam te atirar pequenos "coronavirus" e o pesquisador deve desviar pelas setas. Ao apertar espaço, o personagem atira vacinas nos oponentes. Ao pressionar qualquer tecla entre 1 e 5, altera-se a dificuldade e os tiros oponentes passam a ser mais frequentes.
 
