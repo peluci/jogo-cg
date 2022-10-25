@@ -35,9 +35,7 @@ About the game
 
 The name given is a pun with scientific denialism, and so it's called "Acesso Negado" ("Access Denied", in english). The main characters Atila Iamarino, biologist and professor at UNICAMP, Natalia Pasternak - researcher of ICB-USB and PhD, Vitor Mori - member of the group COVID-19 observatory and researcher of Vermont University, and the researcher and science popularizer Luiza Caires from USP Journal, should fight against some recurrent figures of the present, as medications that are used as treatments for COVID-19, even without the due comprovation, the conspiracy image of the Flat Earth and the major one: the Fake News.
 
-Gameplay:
-<video src="https://youtu.be/E_RJm8jiX_Y" controls="controls" style="max-width: 730px;">
-</video>
+Gameplay: https://youtu.be/E_RJm8jiX_Y
 
 <h3>
 Features
@@ -55,26 +53,16 @@ Features
 
 <h2>How to play</h2>
 
-    Press <strong>'S'</strong> to start the game or <strong>'O'</strong> to go to options.  
+Press <strong>'S'</strong> to start the game or <strong>'O'</strong> to go to options.  
 
-<h3><strong>'O'</strong> Options</h3>
-Select witch character do you want to play with, using keys from <strong>'1' to '4'</strong>. You can also press <strong>'L'</strong> and see more information about the game.
+<h3>'O' Options</h3>
+Select which character do you want to play with, using keys from <strong>'1' to '4'</strong>. You can also press <strong>'L'</strong> and see more information about the game.
 
-Ao apertar S em qualquer momento,  o jogo se inicia na dificuldade 1, na qual os inimigos tentam te atirar pequenos "coronavirus" e o pesquisador deve desviar pelas setas. Ao apertar espaço, o personagem atira vacinas nos oponentes. Ao pressionar qualquer tecla entre 1 e 5, altera-se a dificuldade e os tiros oponentes passam a ser mais frequentes.
+<h3>'S' Start</h3>
+The game starts with difficulty '1', in which the enemies try to shoot you small "coronaviruses" and the researcher should try to dodge using the arrow keys <strong>(←, →, ↑, ↓)</strong>. Pressing <strong>'space'</strong> key, the character shoots vaccines onto the enemies. Pressing any key from <strong>'1'</strong> to <strong>'5'</strong>, the difficulty changes and the enemies start to shoot more frequently. 
 
-Durante a execução do jogo, pode-se apertar 'P' para pausar, nesse momento, os oponentes pausam e a música suspende. Ao pressionar 'S' novamente, o jogo retoma.
+While the game is running, you can press <strong>'P'</strong> to pause. Press <strong>'S'</strong> to resume.
 
-Ao longo do jogo, temos 3 vidas. Ao perdê-las, perdemos, também, o jogo. Nesse momento, a tela de "Game Over" é exibida.
-
-Se eliminarmos os 33 oponentes, vencemos o jogo e a tela de "Vitória" é exibida
-
-Portanto, as implementações em acordância com o GitHub são:
-1. Jogo base. 
-2. Fundo personalizado (mas não animado).
-3. Inimigos com texturas diferentes, aleatórios, mas com mesmo comportamento.
-4. Vidas
-5. Sons (trilha sonora)
-6. Telas
-7. Seletor de dificuldade
-8. Seletor de personagem
+You have 3 lives, when you lose them all, you lose the game and the "Game Over" screen is shown.
+If you eliminate all the 33 enemies, you win the game and the "Victory" screen is shown.
 
