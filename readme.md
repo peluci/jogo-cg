@@ -8,6 +8,7 @@ How to run the game?
 <h3>
 Install packages
 </h3>
+
 > sudo apt update
 
 > sudo apt-get install g++
@@ -17,11 +18,13 @@ Install packages
 <h3>
 Compiling
 </h3>
+
 > g++ -o jogo jogo.cpp -lSDL -lGL -lSDLmain -lSDL_image -lSDL_mixer
 
 <h3>
 Running
 </h3>
+
 > ./jogo
 
 Have fun!
